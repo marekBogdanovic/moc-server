@@ -1,0 +1,17 @@
+{
+  "name": "moc-server",
+  "version": "1.0.0",
+  "author": "marekBogdanovic",
+  "license": "MIT License",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "dotenv": "^14.2.0"
+  }
+}

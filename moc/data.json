@@ -1,0 +1,21 @@
+{
+  "UserHasRegistered": true,
+  "UserName": "string",
+  "Id": "00000000-0000-0000-0000-000000000000",
+  "DomainUser": true,
+  "PasswordChangeRequired": true,
+  "ProfileId": 0,
+  "Email": "string",
+  "EmailConfirmed": true,
+  "PhoneNumber": "string",
+  "PhoneNumberConfirmed": true,
+  "TwoFactorEnabled": true,
+  "LockoutEndDateUtc": "2022-01-20T21:12:09.370Z",
+  "LockoutEnabled": true,
+  "AccessFailedCount": 0,
+  "AccountConfirmed": true,
+  "MimPersonId": "string",
+  "ClientIds": [
+    "string"
+  ]
+}
